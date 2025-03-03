@@ -26,5 +26,5 @@ Before running the project, make sure you have the following installed:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/AbhishekDeveleper/bms_sequelize_server.git
+git clone https://github.com/AbhishekDeveleper/bms-sequelize-server.git
 cd bms_sequelize_server
